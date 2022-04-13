@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Where is the pizza</string>
+    <string name="where_is_the_pizza">Where is the pizza?</string>
+    <string name="pizza_tray">Pizza tray:</string>
+    <string name="empty_tray">Empty tray:</string>
+    <string name="you_are_wine">You are WINE!!!</string>
+    <string name="you_are_lose">You are LOSE!!!</string>
+    <string name="try_again">Try again...</string>
+    <string name="you_are_winer">You are WINER!!!</string>
+    <string name="button">Button</string>
+    <string name="back_to_game">Back to game</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="you_lose">You Lose!!!</string>
+    <string name="todo10">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo77">TODO</string>
+    <string name="try14">Try Again</string>
+    <string name="try_again22">try again</string>
+    <string name="play_again23">Play Again</string>
+</resources>
